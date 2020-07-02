@@ -1,0 +1,158 @@
+body {
+    font-family: Raleway;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    margin: 0em;
+
+    
+   
+}
+
+.imagentitulo {
+    width: 100vw;
+    
+}
+
+.desc-section  {
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #000000;
+    width: 100vw;
+    
+        
+}
+
+.centrado {
+    display: inline-block;
+    width: 475px;
+    height: 197px;
+    text-align: left;
+    vertical-align: middle;
+    padding-right: 6em;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.iguana2 {
+    vertical-align: middle;
+    width: 399px;
+    height: 237px;
+}
+
+.fotos-iguanas {
+    margin: 0px auto;
+    display: inline-block;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    width: 100vw;
+   
+    
+}
+
+.iguana3 {
+    width: 316px;
+    height: 202px;
+    margin-right: 1.5em;
+}
+.iguana4 {
+    width: 316px;
+    height: 202px;
+}
+.iguana5 {
+    width: 316px;
+    height: 202px;
+    margin-left: 1.5em;
+}
+
+.iconos {
+ display: inline-block;
+ text-align: center;
+ margin-top: 3em;
+}
+
+.icono1 {
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.icono2 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 15em;
+    margin-right: 15em;
+    font-size: 25px;
+    font-weight: 300;
+    
+}
+.icono3 {
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 300;
+    
+}
+
+.icons-section {
+    
+    text-align: center;
+    background-color: #1e1a13;
+    width: 100%;
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+.far {
+    color: #ffffff;
+}
+
+.titulo2 {
+    padding-right: 2em;
+}
+
+.fas {
+    color: #ffffff;
+}
+
+footer {
+    vertical-align: middle;
+    background-color: #1e1a13;
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 20px;
+    font-weight: 300;
+    color: #ffffff;
+    
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 50px;
+    color: #ffffff;
+    font-family: Raleway;
+
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 40px;
+    color: #ffffff;
+    font-family: Raleway;
+
+    }
+
+p {
+    color: #ffffff;
+    font-family: Raleway;
+
+}
+
+
+
+
+
+
+
